@@ -20,6 +20,9 @@
     
     // master change
     int zzz = 1;
+    
+    // Local change
+    CGFloat aaa = 2.0f;
 }
 
 - (void)didReceiveMemoryWarning {
